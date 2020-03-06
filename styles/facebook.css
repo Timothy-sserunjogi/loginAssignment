@@ -1,0 +1,18 @@
+body{
+    background-color:#edf0f5;
+}
+.app_nav_bar{
+width: 100%;
+background-color:#3b5998;
+height: 83px;
+border-bottom: #133783 1px solid;
+}
+h1{
+    color: #fff;
+}
+#add_lang{
+    border: 1px solid grey;
+    color: grey;
+    font-weight: bold;
+    font-size: bold;
+}
